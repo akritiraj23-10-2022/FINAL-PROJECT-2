@@ -1,0 +1,57 @@
+Company Financials
+Associated Cement Companies
+Business Background
+Balance Sheet
+Plant : Gujarat, Rajastahn, M.P.
+Product : Cement, white cement
+Sales Value : Rs. 11,000 cr.
+Collaborator : None
+Equity 
+789.2
+523.37
+Net Worth
+789.25
+523.37
+GB/WIP
+789.25
+523.37
+Working Capital
+789.25
+523.37
+
+
+Script Summary
+Share Data
+P & L Statement
+1995
+1994
+
+Listing:
+Mkt Cap/Dil Eq(Rs. Cr.) : 5,000
+Net Sales
+78.25
+52.37
+
+Face Value/Mkt Lot : 10
+Bonus Comp/Bk Val : 23%
+PBIDT
+78.25
+53.37
+Mkt. Price(Rs.) (1/1/96) : 4,335
+Volume (1/1/96) 
+Average : 5,000<BR>High : 7,500
+Depreciation
+79.25
+23.37
+P/E (times) : 30
+Extraord. Inc  
+89.25
+52.37
+52-Week Hi/Lo : 3,035/4,900
+EPS : 15
+Cash Profit 
+89.25
+52.37
+
+
+
